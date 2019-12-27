@@ -1,0 +1,10 @@
+.first{
+    width:100px;
+    height: 100px;
+    border-radius: 100%;
+    transform: rotate(90deg);
+}
+
+.small-font{
+    font-size: 12px;
+}
