@@ -25,7 +25,7 @@ Imam Khomeini International University (IKIU), Qazvin, Iran
 
 ## Work Experience
 
-#### **Senior Data Scientist (Chatbot Project Team Lead) - SystemGroup** (Jan 2022 – Present)  
+#### **Data Scientist (Chatbot Project Team Lead) - SystemGroup** (Jan 2022 – Present)  
   - Led the development of **RAG-based** and **support system chatbots** to enhance customer interactions.  
   - Optimized pipelines for **GPU-efficient LLMs** in low-resource environments, significantly improving performance and cost-efficiency.  
   - Designed and implemented **Persian OCR** for Document AI, enabling better document processing and extraction.  
