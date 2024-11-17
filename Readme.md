@@ -25,14 +25,14 @@ Imam Khomeini International University (IKIU), Qazvin, Iran
 
 ## Work Experience
 
-- **Senior Data Scientist (Chatbot Project Team Lead) - SystemGroup** (Jan 2022 – Present):  
+#### **Senior Data Scientist (Chatbot Project Team Lead) - SystemGroup** (Jan 2022 – Present)  
   - Led the development of **RAG-based** and **support system chatbots** to enhance customer interactions.  
   - Optimized pipelines for **GPU-efficient LLMs** in low-resource environments, significantly improving performance and cost-efficiency.  
   - Designed and implemented **Persian OCR** for Document AI, enabling better document processing and extraction.  
   - Managed **automated labeling tool** data handling to streamline annotation workflows.  
   - Developed and deployed **text summarization** systems as part of a Document AI project, automating the summarization of organizational communication letters.
 
-- **Data Scientist - Hamtech** (Jul 2020 – Nov 2022):  
+#### **Data Scientist - Hamtech** (Jul 2020 – Nov 2022)  
   - Developed crawlers for **4000 hours of audio data collection**, contributing to a large-scale speech processing project.  
   - Built a **Persian TTS** model, improving speech synthesis capabilities for the Persian language.  
   - Developed a **Persian KenLM language model** for improved text-based applications.  
@@ -40,16 +40,17 @@ Imam Khomeini International University (IKIU), Qazvin, Iran
   - Developed **ASR** and **STT systems** for noisy environments (25 SNR), enhancing transcription accuracy.  
   - Designed a **desktop annotation tool** to streamline labeling processes for large datasets.
 
-- **Junior Data Scientist - Shenasa** (Oct 2019 – Jul 2020):  
+#### **Junior Data Scientist - Shenasa** (Oct 2019 – Jul 2020)  
   - Worked on **COVID-19 detection** from blood test data, contributing to healthcare-related ML applications.  
   - Ranked as a **Kaggle Notebook and Discussion Expert**, sharing insights and solutions with the community.  
   - Developed **STT and TTS** systems for Persian, advancing the use of speech technologies in the Persian language.
 
-- **Machine Learning Intern - Shenasa** (Jan 2019 – Sep 2019):  
+#### **Machine Learning Intern - Shenasa** (Jan 2019 – Sep 2019)  
   - Contributed to **computer vision studies**, such as car palette and mask detection, enhancing visual recognition systems.  
   - Assisted in **data gathering** for machine learning, providing datasets for multiple ML models.  
   - Explored **interpretable/explainable AI** and developed a **translation system** for cross-lingual text applications.  
   - Created a **poetry language model** and worked on **video action detection**, expanding the range of NLP and CV applications.
+
 
 
 
