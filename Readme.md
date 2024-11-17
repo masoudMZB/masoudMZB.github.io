@@ -58,7 +58,7 @@ Imam Khomeini International University (IKIU), Qazvin, Iran
 ## Technical Skills
 
 - **Data Science & Machine Learning**: Machine Learning, Deep Learning, NLP, Knowledge Graphs, Graph Neural Networks, Computer Vision, Data Analysis, Visualization
-- **Libraries & Frameworks**: Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn, Plotly, PyTorch, Keras, Huggingface Transformers, LangChain, Ollama, PaddlePaddle, PyTorch Geometric
+- **Libraries & Frameworks**: Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn, Plotly, PyTorch, Keras, Huggingface Transformers, LangChain, Ollama, Vllm, PaddlePaddle, PyTorch Geometric
 - **NLP & Chatbot Development**: Rasa, Huggingface, LangChain
 - **Programming & Scripting**: Python (Expert), Java, JavaScript, Node.js, SQL, HTML, CSS
 - **Web Development**: Flask, FastAPI, Web Design
