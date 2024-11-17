@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a Data Scientist with experience in **Natural Language Processing (NLP)** and **Machine Learning**, where I focus on building and deploying practical solutions. My primary strengths lie in NLP projects like ChatBots, Question Answering, and Summarization. In addition, I've explored various domains, including **Computer Vision**, **Speech Processing**, and **Time-Series Analysis**, gaining hands-on experience with tasks such as **audio data collection**, **cryptocurrency prediction**, and **video action detection**. While I am still growing my expertise in these fields, I am continuously learning and improving through challenging projects.
+I am a Data Scientist with experience in **Natural Language Processing (NLP)** and **Machine Learning**, where I focus on building and deploying practical solutions. My primary strengths lie in NLP projects like ChatBots, Question Answering, and Summarization. In addition, I've explored various domains, including **Computer Vision**, **Speech Processing**, and **Time-Series Analysis**, gaining hands-on experience with tasks such as **audio data collection**, **cryptocurrency prediction**, and **video action detection**. While I am still growing my expertise in these fields, I continuously learn and improve through challenging projects.
 
 ## Education
 
@@ -43,7 +43,7 @@ Imam Khomeini International University (IKIU), Qazvin, Iran
 #### **Junior Data Scientist - Shenasa** (Oct 2019 – Jul 2020)  
   - Worked on **COVID-19 detection** from blood test data, contributing to healthcare-related ML applications.  
   - Ranked as a **Kaggle Notebook and Discussion Expert**, sharing insights and solutions with the community.  
-  - Developed **STT and TTS** systems for Persian, advancing the use of speech technologies in the Persian language.
+  - Developed **STT and TTS** systems for Persian, advancing the use of speech technologies in Persian.
 
 #### **Machine Learning Intern - Shenasa** (Jan 2019 – Sep 2019)  
   - Contributed to **computer vision studies**, such as car palette and mask detection, enhancing visual recognition systems.  
